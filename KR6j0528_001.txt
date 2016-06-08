@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:13.912151
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:23
 #+TITLE: 供養十二大威德天報恩品
 #+PROPERTY: CBETA_ID T21n1297
 #+PROPERTY: ID KR6j0528
