@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:13.440290
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:23
 #+TITLE: 供養十二大威德天報恩品
 #+PROPERTY: CBETA_ID T21n1297
 #+PROPERTY: ID KR6j0528
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1297
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0528_T_001-0383c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1297¶
-
- 供養十二大威德天報恩品一卷¶
+No. 1297¶
+供養十二大威德天報恩品一卷¶
 ¶
 不空譯¶
 
@@ -148,7 +147,7 @@ No.1297¶
 (日天除寒月天除熱)若有四大病。隨用四大精天。如是為¶
 首。餘次第迴順供之。為富用毘沙門。為貴¶
 更用梵天。其供養具各儲一器。香水塗香時¶
-華五穀飯(若粥)蠟燭等。插盛一器而供養之。燒¶
+華五穀飯(若粥)臘燭等。插盛一器而供養之。燒¶
 香普薰清淨如法。供養儀式各別印明。及彼¶
 畫像種種法義如餘部說。普賢菩薩為度眾¶
 生。自問自答如是因緣。如是報恩如是祈願。¶
